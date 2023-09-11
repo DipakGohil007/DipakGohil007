@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as intern **@simform**
 
-- 🌱 I’m currently learning **Sass,JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **gohildipak106@gmail.com**
 
